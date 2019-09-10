@@ -1,0 +1,19 @@
+{
+  "name": "pabmis-core",
+  "version": "1.0.0",
+  "description": " pabmis core package user vuejs and bootstrap ",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doi-Nguyen/pabmis-frontend-core.git"
+  },
+  "author": "Doi-Nguyen <vandoi2210@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doi-Nguyen/pabmis-frontend-core/issues"
+  },
+  "homepage": "https://github.com/Doi-Nguyen/pabmis-frontend-core#readme"
+}
